@@ -1,1 +1,43 @@
-Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring BootNesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa atravÈs de uma API REST, criada com o Spring Boot.Durante a sess„o, ser„o desenvolvidos e abordados os seguintes tÛpicos:Setup inicial de projeto com o Spring Boot InitialzrCriaÁ„o de modelo de dados para o mapeamento de entidades em bancos de dadosDesenvolvimento de operaÁıes de gerenciamento de usu·rios (Cadastro, leitura, atualizaÁ„o e remoÁ„o de pessoas de um sistema).RelaÁ„o de cada uma das operaÁıes acima com o padr„o arquitetural REST, e a explicaÁ„o de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.Desenvolvimento de testes unit·rios para validaÁ„o das funcionalidadesImplantaÁ„o do sistema na nuvem atravÈs do HerokuPara executar o projeto no terminal, digite o seguinte comando:mvn spring-boot:run ApÛs executar o comando acima, basta apenas abrir o seguinte endereÁo e visualizar a execuÁ„o do projeto:http://localhost:8080/api/v1/peopleS„o necess·rios os seguintes prÈ-requisitos para a execuÁ„o do projeto desenvolvido durante a aula:Java 11 ou versıes superiores.Maven 3.6.3 ou versıes superiores.Intellj IDEA Community Edition ou sua IDE favorita.Controle de vers„o GIT instalado na sua m·quina.Conta no GitHub para o armazenamento do seu projeto na nuvem.Conta no Heroku para o deploy do projeto na nuvemMuita vontade de aprender e compartilhar conhecimento :)Abaixo, seguem links bem bacanas, sobre tÛpicos mencionados durante a aula:SDKMan! para gerenciamento e instalaÁ„o do Java e MavenReferÍncia do Intellij IDEA Community, para downloadPalheta de atalhos de comandos do IntellijSite oficial do SpringSite oficial do Spring Initialzr, para setup do projetoSite oficial do HerokuSite oficial do GITSite oficial do GitHubDocumentaÁ„o oficial do LombokDocumentaÁ„o oficial do Map StructReferÍncia para o padr„o arquitetural RESTNeste link, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sess„o.
+Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa atrav√©s de uma API REST, criada com o Spring Boot.
+
+Durante a sess√£o, ser√£o desenvolvidos e abordados os seguintes t√≥picos:
+
+Setup inicial de projeto com o Spring Boot Initialzr
+Cria√ß√£o de modelo de dados para o mapeamento de entidades em bancos de dados
+Desenvolvimento de opera√ß√µes de gerenciamento de usu√°rios (Cadastro, leitura, atualiza√ß√£o e remo√ß√£o de pessoas de um sistema).
+Rela√ß√£o de cada uma das opera√ß√µes acima com o padr√£o arquitetural REST, e a explica√ß√£o de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.
+Desenvolvimento de testes unit√°rios para valida√ß√£o das funcionalidades
+Implanta√ß√£o do sistema na nuvem atrav√©s do Heroku
+
+Para executar o projeto no terminal, digite o seguinte comando:
+
+mvn spring-boot:run 
+
+Ap√≥s executar o comando acima, basta apenas abrir o seguinte endere√ßo e visualizar a execu√ß√£o do projeto:
+
+http://localhost:8080/api/v1/people
+
+S√£o necess√°rios os seguintes pr√©-requisitos para a execu√ß√£o do projeto desenvolvido durante a aula:
+
+Java 11 ou vers√µes superiores.
+Maven 3.6.3 ou vers√µes superiores.
+Intellj IDEA Community Edition ou sua IDE favorita.
+Controle de vers√£o GIT instalado na sua m√°quina.
+Conta no GitHub para o armazenamento do seu projeto na nuvem.
+Conta no Heroku para o deploy do projeto na nuvem
+Muita vontade de aprender e compartilhar conhecimento :)
+Abaixo, seguem links bem bacanas, sobre t√≥picos mencionados durante a aula:
+
+SDKMan! para gerenciamento e instala√ß√£o do Java e Maven
+Refer√™ncia do Intellij IDEA Community, para download
+Palheta de atalhos de comandos do Intellij
+Site oficial do Spring
+Site oficial do Spring Initialzr, para setup do projeto
+Site oficial do Heroku
+Site oficial do GIT
+Site oficial do GitHub
+Documenta√ß√£o oficial do Lombok
+Documenta√ß√£o oficial do Map Struct
+Refer√™ncia para o padr√£o arquitetural REST
+Neste link, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sess√£o.
